@@ -19,11 +19,14 @@ This week I finished setting up and getting comfortable with my coding softwares
 
 #### WHY I DIDN'T POST ABOUT IT
 
-   I did not post about these issues as I knew they were not difficult fixes and learning to do it myself creates a better base for bvuilding the knowledge I am trying to learn.
 
+```HTML
+<body> <p>  I did not post about these issues as I knew they were not difficult fixes and learning to do it myself creates a better base for bvuilding the knowledge I am trying to learn.<\p>
+<\body>
+```
  ## HOW DID I GET MY WORK DONE?
 
- In order to get this done, I followed the website, viewing videos and outside web sources when needed. I completed each step of the TODO areas in order to gain a good understanding of my building blocks.
+ In order to get this done, I followed the  [**website**](https://montana-media-arts.github.io/creative-coding-1/modules/week-2/overview/), viewing videos and outside web sources when needed. I completed each step of the TODO areas in order to gain a good understanding of my building blocks.
 
  ## WHAT I AM EXCITED ABOUT
 
