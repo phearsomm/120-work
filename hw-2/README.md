@@ -13,7 +13,7 @@ This week I finished setting up and getting comfortable with my coding softwares
 
  ## THE PROBLEMS
 
-1.  The biggest issue I faced while doing the work for this week was that I mistakenly used the CMD prompt for an amount of time I'm embarassed to admit before I realized I should be using powershell, once I got into powershell I could create the item that I had spent hours trying to make using the fancy code new-item.
+1.  I had an issue recreating a repository so opened an old one instead and deleted previous works.
 
 2. The other problem I faced was using Atom, and getting it to be linked to my Github Desktop. When setting it up using the course website, there was no compatible outside text editor shown, in order for me to fix this I reinstalled it, and mistakenly forgot to run it as administrator. Once it installed and the problem persisted i redid the whole process and ran it as administrator to open it up and see that it had worked and my Atom text editor was linked to my Github Desktop.
 
