@@ -22,7 +22,7 @@ function setup(){
 
 //draw
 function draw(){
-  background(bgColor);
+  //background(bgColor);
   //translate
   translate ( width * .5, height *.5);
   centerX = width /2;
@@ -62,7 +62,7 @@ pty += floor(random(-ptMvt, ptMvt +1));
 }
   function windowResized(){
   resizeCanvas(windowWidth, windowHeight);
-  background(bgColor);
+//  background(bgColor);
 }
 
 //fullscreen function
