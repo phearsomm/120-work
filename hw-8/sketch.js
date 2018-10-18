@@ -1,7 +1,7 @@
 let r = 255;
 let g = 255;
 let b = 255;
-let option = 1;
+let option = 3;
 function setup() {
 	createCanvas(windowWidth, 750);
 }
@@ -32,16 +32,16 @@ function draw() {
       }
     }
   }
-else if (option <= 2){
-	for (let b1 = mouseY; b1 <= height; b1 += 8) {
-		for (let a1 = 16; a1 <= width; a1 += 15) {
+else if (option == 3){
+	for (let y = mouseY; y <= height; y += home) {
+		for (let x = 16; x <= width; x += home) {
 			fill( r, g, b);
-			ellipse(a1 + b1, b1, 100 - b1/6.0, 100 - b1/6.0);
+			ellipse(x + y, y, 100 - y/6.0, 100 - y/6.0);
 		}
 	}
 }
 }
 function mousePressed() {
   option++;
-  if (option > 2) option = 1;
+  if (option > 3) option = 1;
 }
