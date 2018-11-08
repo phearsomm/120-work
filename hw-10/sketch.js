@@ -17,6 +17,8 @@ for (let idx = 0; idx < orbsX.length; idx++){
 }
 //custom square function
 mSquare(0, 0, 1.0, 1.0);
+mSquare(-10, -10, 1.0, 1.0);
+mSquare(10, 10, 1.0, 1.0);
 }//end draw
 
 //create the custom orb function
